@@ -1,1 +1,3 @@
 Number 3 is going, starting to love this!
+
+This is brilliant. Whoever came up with git must be a genius.
