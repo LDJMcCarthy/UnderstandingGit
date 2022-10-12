@@ -1,3 +1,5 @@
 This is literally just a pointless file to learn how to use git!
 
 You know what I can see me getting to like this...
+
+After playing around for an hour I now see the benefits of git. However, this nano text editor is the most frustrating editor I have ever used!
